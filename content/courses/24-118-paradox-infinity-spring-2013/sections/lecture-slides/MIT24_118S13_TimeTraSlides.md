@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/6b7b0577f8ec49f4
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Lecture Slides - Time Travel'
-type: course
 uid: 6b7b0577-f8ec-49f4-ef07-c9bb95ad9a6e
 ---

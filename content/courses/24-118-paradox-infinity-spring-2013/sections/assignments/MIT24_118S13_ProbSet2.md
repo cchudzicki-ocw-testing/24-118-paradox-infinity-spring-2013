@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/3dca20ddd82036b6
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Problem Set 2 Newcomb''s Problem'
-type: course
 uid: 3dca20dd-d820-36b6-0810-01141f4d9d15
 ---

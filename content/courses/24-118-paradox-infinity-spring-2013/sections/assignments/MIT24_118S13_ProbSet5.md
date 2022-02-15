@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/0a6cdf8ec8f5ea2e
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Problem Set 5 Infinity'
-type: course
 uid: 0a6cdf8e-c8f5-ea2e-1529-9567e26f42c1
 ---

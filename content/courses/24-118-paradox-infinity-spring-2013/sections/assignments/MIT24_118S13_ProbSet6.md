@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/35175ce084a15592
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Problem Set 6 Ordinal Arithmetic'
-type: course
 uid: 35175ce0-84a1-5592-bb18-684c23d00c80
 ---

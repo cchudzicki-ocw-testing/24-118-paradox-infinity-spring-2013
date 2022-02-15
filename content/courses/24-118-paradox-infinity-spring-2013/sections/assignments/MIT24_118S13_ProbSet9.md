@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/528ce33ddb280c64
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Problem Set 9 Godel''s Theorem'
-type: course
 uid: 528ce33d-db28-0c64-11dd-7fc02220042f
 ---

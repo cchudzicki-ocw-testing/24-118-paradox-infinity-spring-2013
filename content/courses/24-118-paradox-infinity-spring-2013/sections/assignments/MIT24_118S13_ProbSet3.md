@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/19dce2aab515f240
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Problem Set 3 Foundations of Probability'
-type: course
 uid: 19dce2aa-b515-f240-2608-04a459740265
 ---

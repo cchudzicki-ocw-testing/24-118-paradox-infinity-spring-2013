@@ -8,7 +8,6 @@ menu:
     name: Lecture Slides
     weight: 40
 title: Lecture Slides
-type: course
 uid: 2610ee89-f3bb-4d9d-5ad6-944ab9c870e6
 ---
 

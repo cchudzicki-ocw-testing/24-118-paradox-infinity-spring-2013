@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/c3df7c0a543fed6e
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Extra-credit Problem Set 2.5'
-type: course
 uid: c3df7c0a-543f-ed6e-e52e-3682b87446a8
 ---

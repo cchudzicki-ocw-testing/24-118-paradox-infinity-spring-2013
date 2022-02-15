@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/f08de582f3e7370c
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Lecture Slides - Coordination Games'
-type: course
 uid: f08de582-f3e7-370c-a837-7a1c253d04fa
 ---

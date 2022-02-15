@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/cd69c343af9c327b
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Problem Set 8 Computability'
-type: course
 uid: cd69c343-af9c-327b-6c1a-b78c837c03e5
 ---

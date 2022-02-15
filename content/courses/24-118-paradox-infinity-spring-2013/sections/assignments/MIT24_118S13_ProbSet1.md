@@ -7,6 +7,5 @@ file_location: /coursemedia/24-118-paradox-infinity-spring-2013/141e7c789eeeb3f6
 file_type: application/pdf
 layout: pdf
 title: '24.118s13 Paradox & Infinity: Problem Set 1 Time Travel'
-type: course
 uid: 141e7c78-9eee-b3f6-2365-7e37309929bb
 ---
